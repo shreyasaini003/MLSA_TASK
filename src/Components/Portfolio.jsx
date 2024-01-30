@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/fog.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "This is a fog image.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my blog website where I write about my experience and learnings in the tech industry.",
+    url: "https://shreyasaini003.github.io/Music_Player/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Age Calculator App using Python Tkinter",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a Age Calculator app which I created using python library Tkinter. Here is th egithub link for the same.",
+    url: "https://github.com/shreyasaini003/AgeCalculator/blob/main/age-calculator.py",
   },
   {
-    title: "My Resume Site",
+    title: "Stock prediction Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created using Python, I made Stock Prediction Program. Github link for the same is given below.",
+    url: "https://github.com/shreyasaini003/stock_prediction",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Playlist where i learnt web development from",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is playlist where i started learning web development initially.",
+    url: "https://youtu.be/Q8FUQawC_1I?feature=shared",
   },
 ];
 
